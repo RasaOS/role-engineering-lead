@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-engineering-lead",
+  "version": "0.1.0",
+  "description": "The Engineering Lead role (`engineering-lead`) as a RasaOS role module. The ask is software: a feature, a fix, an audit of code, infrastructure or a decision about them"
+}
